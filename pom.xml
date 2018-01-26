@@ -12,6 +12,7 @@
     <modules>
         <module>mybatis-learn-jdbc</module>
         <module>mybatis-learn-chapter-1</module>
+        <module>mybatis-learn-chapter-2</module>
     </modules>
 
 
